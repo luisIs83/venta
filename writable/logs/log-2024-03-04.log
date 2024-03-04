@@ -1,0 +1,1786 @@
+CRITICAL - 2024-03-04 11:54:48 --> syntax error, unexpected token ")", expecting variable
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('unidades')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('unidades')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-04 11:55:04 --> syntax error, unexpected token ")", expecting variable
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('unidades')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('unidades')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-04 11:57:17 --> syntax error, unexpected token ")", expecting variable
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('unidades')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('unidades')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-04 11:57:42 --> syntax error, unexpected token ")", expecting variable
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('unidades')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('unidades')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-04 11:59:42 --> syntax error, unexpected token ")", expecting variable
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('unidades')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('unidades')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-04 11:59:43 --> syntax error, unexpected token ")", expecting variable
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('unidades')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('unidades')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-04 11:59:44 --> syntax error, unexpected token ")", expecting variable
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('unidades')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('unidades')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-04 11:59:44 --> syntax error, unexpected token ")", expecting variable
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('unidades')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('unidades')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-04 11:59:44 --> syntax error, unexpected token ")", expecting variable
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('unidades')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('unidades')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-04 11:59:50 --> syntax error, unexpected token ")", expecting variable
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('unidades')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('unidades')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-04 11:59:51 --> syntax error, unexpected token ")", expecting variable
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('unidades')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('unidades')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-04 12:08:17 --> syntax error, unexpected token ")", expecting variable
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('unidades')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('unidades')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-04 12:08:19 --> syntax error, unexpected token ")", expecting variable
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('unidades')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('unidades')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-04 12:11:14 --> syntax error, unexpected token ")", expecting variable
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('unidades')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('unidades')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-04 12:11:15 --> syntax error, unexpected token ")", expecting variable
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('unidades')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('unidades')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-04 12:11:15 --> syntax error, unexpected token ")", expecting variable
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('unidades')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('unidades')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-04 12:11:16 --> syntax error, unexpected token ")", expecting variable
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('unidades')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('unidades')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-04 12:11:16 --> syntax error, unexpected token ")", expecting variable
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('unidades')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('unidades')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-04 12:16:23 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:16:25 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:16:25 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:16:25 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:17:36 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:18:43 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:19:22 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:19:23 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:19:24 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:19:24 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:22:30 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:22:31 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:22:31 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:22:32 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:23:06 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:26:21 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:26:22 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:26:29 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:28:56 --> syntax error, unexpected variable "$data", expecting ")"
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('unidades')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('unidades')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-04 12:28:59 --> syntax error, unexpected variable "$data", expecting ")"
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('unidades')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('unidades')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-04 12:29:11 --> syntax error, unexpected variable "$data", expecting ")"
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('unidades')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('unidades')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-04 12:29:14 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:29:15 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:29:15 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:29:15 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:29:15 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:34:23 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:34:24 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:34:24 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:34:24 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:40:32 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:40:33 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:41:04 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:41:04 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:41:05 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:43:18 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:43:19 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:43:19 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:43:19 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:43:20 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:46:22 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:46:23 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:46:23 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:46:23 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:46:24 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:46:24 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:46:25 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 12:46:25 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 13:33:47 --> Undefined property: App\Controllers\Unidades::$unidades
+#0 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 15)
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-04 13:33:51 --> Undefined property: App\Controllers\Unidades::$unidades
+#0 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 15)
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-04 13:35:48 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 13:36:13 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 13:36:21 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 13:39:49 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 13:39:49 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 13:39:50 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 13:39:50 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 13:39:50 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 13:40:10 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 13:42:33 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 13:43:02 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 13:43:04 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 13:43:35 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 13:44:39 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 13:50:12 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 13:50:13 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 13:51:45 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 13:52:32 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 13:52:34 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 13:59:32 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 13:59:33 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 13:59:34 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 14:00:52 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 14:00:53 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 14:00:53 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 14:00:53 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 14:03:07 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 14:03:08 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 14:03:09 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 14:03:09 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 14:03:10 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 14:03:10 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 14:03:11 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 14:03:11 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 14:03:12 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 14:03:13 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-04 14:03:13 --> Class "App\Models\Model" not found
+#0 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Unid...')
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(15): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Unid...')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(809): App\Controllers\Unidades->__construct()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2024-03-04 14:04:04 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «pos.unidades»
+LINE 2: FROM &quot;pos&quot;.&quot;unidades&quot;
+             ^ in C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php:135
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-03-04 14:04:04 --> pg_query(): Query failed: ERROR:  no existe la relación «pos.unidades»
+LINE 2: FROM &quot;pos&quot;.&quot;unidades&quot;
+             ^
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2024-03-04 14:05:46 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «pos.unidades»
+LINE 2: FROM &quot;pos&quot;.&quot;unidades&quot;
+             ^ in C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php:135
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-03-04 14:05:46 --> pg_query(): Query failed: ERROR:  no existe la relación «pos.unidades»
+LINE 2: FROM &quot;pos&quot;.&quot;unidades&quot;
+             ^
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2024-03-04 14:06:43 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «pos.unidades»
+LINE 2: FROM &quot;pos&quot;.&quot;unidades&quot;
+             ^ in C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php:135
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-03-04 14:06:43 --> pg_query(): Query failed: ERROR:  no existe la relación «pos.unidades»
+LINE 2: FROM &quot;pos&quot;.&quot;unidades&quot;
+             ^
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2024-03-04 14:06:57 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «pos.unidades»
+LINE 2: FROM &quot;pos&quot;.&quot;unidades&quot;
+             ^ in C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php:135
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-03-04 14:06:57 --> pg_query(): Query failed: ERROR:  no existe la relación «pos.unidades»
+LINE 2: FROM &quot;pos&quot;.&quot;unidades&quot;
+             ^
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2024-03-04 14:09:48 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «pos.unidades»
+LINE 2: FROM &quot;pos&quot;.&quot;unidades&quot;
+             ^ in C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php:135
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-03-04 14:09:48 --> pg_query(): Query failed: ERROR:  no existe la relación «pos.unidades»
+LINE 2: FROM &quot;pos&quot;.&quot;unidades&quot;
+             ^
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2024-03-04 14:10:36 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «unidades»
+LINE 2: FROM &quot;unidades&quot;
+             ^ in C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php:135
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-03-04 14:10:36 --> pg_query(): Query failed: ERROR:  no existe la relación «unidades»
+LINE 2: FROM &quot;unidades&quot;
+             ^
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2024-03-04 14:10:38 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «unidades»
+LINE 2: FROM &quot;unidades&quot;
+             ^ in C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php:135
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-03-04 14:10:38 --> pg_query(): Query failed: ERROR:  no existe la relación «unidades»
+LINE 2: FROM &quot;unidades&quot;
+             ^
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2024-03-04 14:10:39 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «unidades»
+LINE 2: FROM &quot;unidades&quot;
+             ^ in C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php:135
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-03-04 14:10:39 --> pg_query(): Query failed: ERROR:  no existe la relación «unidades»
+LINE 2: FROM &quot;unidades&quot;
+             ^
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2024-03-04 14:10:39 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «unidades»
+LINE 2: FROM &quot;unidades&quot;
+             ^ in C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php:135
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-03-04 14:10:39 --> pg_query(): Query failed: ERROR:  no existe la relación «unidades»
+LINE 2: FROM &quot;unidades&quot;
+             ^
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2024-03-04 14:10:39 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «unidades»
+LINE 2: FROM &quot;unidades&quot;
+             ^ in C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php:135
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-03-04 14:10:39 --> pg_query(): Query failed: ERROR:  no existe la relación «unidades»
+LINE 2: FROM &quot;unidades&quot;
+             ^
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2024-03-04 14:10:39 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «unidades»
+LINE 2: FROM &quot;unidades&quot;
+             ^ in C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php:135
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-03-04 14:10:39 --> pg_query(): Query failed: ERROR:  no existe la relación «unidades»
+LINE 2: FROM &quot;unidades&quot;
+             ^
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2024-03-04 14:10:39 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «unidades»
+LINE 2: FROM &quot;unidades&quot;
+             ^ in C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php:135
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-03-04 14:10:39 --> pg_query(): Query failed: ERROR:  no existe la relación «unidades»
+LINE 2: FROM &quot;unidades&quot;
+             ^
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2024-03-04 14:10:40 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «unidades»
+LINE 2: FROM &quot;unidades&quot;
+             ^ in C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php:135
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-03-04 14:10:40 --> pg_query(): Query failed: ERROR:  no existe la relación «unidades»
+LINE 2: FROM &quot;unidades&quot;
+             ^
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2024-03-04 14:10:40 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «unidades»
+LINE 2: FROM &quot;unidades&quot;
+             ^ in C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php:135
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-03-04 14:10:40 --> pg_query(): Query failed: ERROR:  no existe la relación «unidades»
+LINE 2: FROM &quot;unidades&quot;
+             ^
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2024-03-04 14:10:40 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «unidades»
+LINE 2: FROM &quot;unidades&quot;
+             ^ in C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php:135
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-03-04 14:10:40 --> pg_query(): Query failed: ERROR:  no existe la relación «unidades»
+LINE 2: FROM &quot;unidades&quot;
+             ^
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2024-03-04 14:10:40 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «unidades»
+LINE 2: FROM &quot;unidades&quot;
+             ^ in C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php:135
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-03-04 14:10:40 --> pg_query(): Query failed: ERROR:  no existe la relación «unidades»
+LINE 2: FROM &quot;unidades&quot;
+             ^
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2024-03-04 14:11:40 --> ErrorException: pg_query(): Query failed: ERROR:  el operador no existe: bit = integer
+LINE 3: WHERE &quot;activo&quot; = 1
+                       ^
+HINT:  Ningún operador coincide en el nombre y tipos de argumentos. Puede ser necesario agregar conversión explícita de tipos. in C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php:135
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-03-04 14:11:40 --> pg_query(): Query failed: ERROR:  el operador no existe: bit = integer
+LINE 3: WHERE &quot;activo&quot; = 1
+                       ^
+HINT:  Ningún operador coincide en el nombre y tipos de argumentos. Puede ser necesario agregar conversión explícita de tipos.
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2024-03-04 14:14:19 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «pos.unidades»
+LINE 2: FROM &quot;pos&quot;.&quot;unidades&quot;
+             ^ in C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php:135
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-03-04 14:14:19 --> pg_query(): Query failed: ERROR:  no existe la relación «pos.unidades»
+LINE 2: FROM &quot;pos&quot;.&quot;unidades&quot;
+             ^
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2024-03-04 14:16:38 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «pos.unidades»
+LINE 2: FROM &quot;pos&quot;.&quot;unidades&quot;
+             ^ in C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php:135
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-03-04 14:16:38 --> pg_query(): Query failed: ERROR:  no existe la relación «pos.unidades»
+LINE 2: FROM &quot;pos&quot;.&quot;unidades&quot;
+             ^
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2024-03-04 14:17:33 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «pos.unidades»
+LINE 2: FROM &quot;pos&quot;.&quot;unidades&quot;
+             ^ in C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php:135
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-03-04 14:17:33 --> pg_query(): Query failed: ERROR:  no existe la relación «pos.unidades»
+LINE 2: FROM &quot;pos&quot;.&quot;unidades&quot;
+             ^
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2024-03-04 14:24:53 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «pos.unidades»
+LINE 2: FROM &quot;pos&quot;.&quot;unidades&quot;
+             ^ in C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php:135
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-03-04 14:24:53 --> pg_query(): Query failed: ERROR:  no existe la relación «pos.unidades»
+LINE 2: FROM &quot;pos&quot;.&quot;unidades&quot;
+             ^
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2024-03-04 14:27:42 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «pos.unidades»
+LINE 2: FROM &quot;pos&quot;.&quot;unidades&quot;
+             ^ in C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php:135
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-03-04 14:27:42 --> pg_query(): Query failed: ERROR:  no existe la relación «pos.unidades»
+LINE 2: FROM &quot;pos&quot;.&quot;unidades&quot;
+             ^
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2024-03-04 14:28:55 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «unidades»
+LINE 2: FROM &quot;unidades&quot;
+             ^ in C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php:135
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-03-04 14:28:55 --> pg_query(): Query failed: ERROR:  no existe la relación «unidades»
+LINE 2: FROM &quot;unidades&quot;
+             ^
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #122, 'SELECT *\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT *\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(20): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#9 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-03-04 15:53:23 --> Undefined variable $datos
+#0 C:\xampp\htdocs\punto_venta\app\Views\unidades\unidades.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\punto_venta\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\punto_venta\system\Common.php(1089): CodeIgniter\View\View->render('unidades/unidad...', Array, true)
+#4 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(32): view('unidades/unidad...', Array)
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->nuevo()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#7 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-03-04 15:54:11 --> Undefined variable $datos
+#0 C:\xampp\htdocs\punto_venta\app\Views\unidades\unidades.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\punto_venta\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\punto_venta\system\Common.php(1089): CodeIgniter\View\View->render('unidades/unidad...', Array, true)
+#4 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(32): view('unidades/unidad...', Array)
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->nuevo()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#7 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-03-04 15:54:12 --> Undefined variable $datos
+#0 C:\xampp\htdocs\punto_venta\app\Views\unidades\unidades.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\punto_venta\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\punto_venta\system\Common.php(1089): CodeIgniter\View\View->render('unidades/unidad...', Array, true)
+#4 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(32): view('unidades/unidad...', Array)
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->nuevo()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#7 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-03-04 15:54:12 --> Undefined variable $datos
+#0 C:\xampp\htdocs\punto_venta\app\Views\unidades\unidades.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\punto_venta\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\punto_venta\system\Common.php(1089): CodeIgniter\View\View->render('unidades/unidad...', Array, true)
+#4 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(32): view('unidades/unidad...', Array)
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->nuevo()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#7 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

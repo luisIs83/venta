@@ -1,0 +1,77 @@
+CRITICAL - 2024-02-27 09:25:29 --> Invalid file: logi.php
+#0 C:\xampp\htdocs\visitas\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('logi.php')
+#1 C:\xampp\htdocs\visitas\system\Common.php(1089): CodeIgniter\View\View->render('logi', Array, true)
+#2 C:\xampp\htdocs\visitas\app\Controllers\Login.php(12): view('logi')
+#3 C:\xampp\htdocs\visitas\system\CodeIgniter.php(832): App\Controllers\Login->index()
+#4 C:\xampp\htdocs\visitas\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 C:\xampp\htdocs\visitas\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\visitas\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-02-27 09:25:35 --> Invalid file: logi.php
+#0 C:\xampp\htdocs\visitas\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('logi.php')
+#1 C:\xampp\htdocs\visitas\system\Common.php(1089): CodeIgniter\View\View->render('logi', Array, true)
+#2 C:\xampp\htdocs\visitas\app\Controllers\Login.php(12): view('logi')
+#3 C:\xampp\htdocs\visitas\system\CodeIgniter.php(832): App\Controllers\Login->index()
+#4 C:\xampp\htdocs\visitas\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 C:\xampp\htdocs\visitas\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\visitas\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-02-27 09:25:35 --> Invalid file: logi.php
+#0 C:\xampp\htdocs\visitas\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('logi.php')
+#1 C:\xampp\htdocs\visitas\system\Common.php(1089): CodeIgniter\View\View->render('logi', Array, true)
+#2 C:\xampp\htdocs\visitas\app\Controllers\Login.php(12): view('logi')
+#3 C:\xampp\htdocs\visitas\system\CodeIgniter.php(832): App\Controllers\Login->index()
+#4 C:\xampp\htdocs\visitas\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 C:\xampp\htdocs\visitas\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\visitas\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-02-27 09:25:40 --> Invalid file: logi.php
+#0 C:\xampp\htdocs\visitas\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('logi.php')
+#1 C:\xampp\htdocs\visitas\system\Common.php(1089): CodeIgniter\View\View->render('logi', Array, true)
+#2 C:\xampp\htdocs\visitas\app\Controllers\Login.php(12): view('logi')
+#3 C:\xampp\htdocs\visitas\system\CodeIgniter.php(832): App\Controllers\Login->index()
+#4 C:\xampp\htdocs\visitas\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 C:\xampp\htdocs\visitas\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\visitas\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-02-27 09:25:42 --> Invalid file: logi.php
+#0 C:\xampp\htdocs\visitas\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('logi.php')
+#1 C:\xampp\htdocs\visitas\system\Common.php(1089): CodeIgniter\View\View->render('logi', Array, true)
+#2 C:\xampp\htdocs\visitas\app\Controllers\Login.php(12): view('logi')
+#3 C:\xampp\htdocs\visitas\system\CodeIgniter.php(832): App\Controllers\Login->index()
+#4 C:\xampp\htdocs\visitas\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#5 C:\xampp\htdocs\visitas\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\visitas\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-02-27 09:35:06 --> Undefined variable $usuario
+#0 C:\xampp\htdocs\visitas\app\Controllers\Login.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 22)
+#1 C:\xampp\htdocs\visitas\system\CodeIgniter.php(832): App\Controllers\Login->authenticate()
+#2 C:\xampp\htdocs\visitas\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\xampp\htdocs\visitas\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\visitas\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-02-27 09:35:27 --> Undefined variable $usuario
+#0 C:\xampp\htdocs\visitas\app\Controllers\Login.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 22)
+#1 C:\xampp\htdocs\visitas\system\CodeIgniter.php(832): App\Controllers\Login->authenticate()
+#2 C:\xampp\htdocs\visitas\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\xampp\htdocs\visitas\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\visitas\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-02-27 16:05:17 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::gerMethod()
+#0 C:\xampp\htdocs\visitas\system\CodeIgniter.php(832): App\Controllers\Login->valida()
+#1 C:\xampp\htdocs\visitas\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\visitas\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\visitas\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2024-02-27 16:05:28 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::gerMethod()
+#0 C:\xampp\htdocs\visitas\system\CodeIgniter.php(832): App\Controllers\Login->valida()
+#1 C:\xampp\htdocs\visitas\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\visitas\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\visitas\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2024-02-27 16:05:44 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::gerMethod()
+#0 C:\xampp\htdocs\visitas\system\CodeIgniter.php(832): App\Controllers\Login->valida()
+#1 C:\xampp\htdocs\visitas\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#2 C:\xampp\htdocs\visitas\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\visitas\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
