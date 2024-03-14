@@ -25,11 +25,29 @@
                                     <td><?php echo $dato['id'] ?></td>
                                     <td><?php echo $dato['nombre'] ?></td>
                                     <td><?php echo $dato['nombre_corto'] ?></td>
-                                    <td><a href="<?php echo base_url(); ?>/unidades/editar/" <?php echo $dato['id'] ?> class="btn btn-warning"><i class="fa-solid fa-pencil"></i></a></td>
-                                    <td><a href="<?php echo base_url(); ?>/unidades/eliminar/" <?php echo $dato['id'] ?> class="btn btn-danger"><i class="fa-solid fa-trash"></i></a></td>
+                                    <td><a href="<?php echo base_url() . '/unidades/editar/' . $dato['id'] ?>" class="btn btn-warning"><i class="fa-solid fa-pencil"></i></a></td>
+                                    <td><a href="#" data-href="<?php echo base_url() . '/unidades/eliminar/' . $dato['id'] ?>" data-bs-toggle="modal" data-bs-target="#modal-confirma" data-placement="top" type="button" class="btn btn-danger"><i class="fa-solid fa-trash"></i></a></td>
                                 </tr>
                             <?php } ?>
                         </tbody>
                     </table>
         </div>
     </main>
+
+<div class="modal fade" id="modal-confirma" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h1 class="modal-title fs-5" id="exampleModalLabel">Atención!</h1>
+            <!--<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>-->
+        </div>
+        <div class="modal-body">
+            <p>¿Desea eliminar este registro de la tabla?</p>
+        </div>
+        <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+            <a class="btn btn-danger btn-ok">Aceptar</a>
+        </div>
+    </div>
+</div>
+</div>
