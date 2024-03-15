@@ -1,0 +1,106 @@
+CRITICAL - 2024-03-14 09:34:53 --> Undefined variable $nom
+#0 C:\xampp\htdocs\punto_venta\app\Views\unidades\unidades.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 45)
+#1 C:\xampp\htdocs\punto_venta\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\punto_venta\system\Common.php(1089): CodeIgniter\View\View->render('unidades/unidad...', Array, true)
+#4 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(24): view('unidades/unidad...', Array)
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#7 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-03-14 15:05:38 --> Undefined variable $nombre
+#0 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 21)
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-14 15:09:03 --> Undefined variable $nombre
+#0 C:\xampp\htdocs\punto_venta\app\Views\unidades\unidades.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 45)
+#1 C:\xampp\htdocs\punto_venta\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\punto_venta\system\Common.php(1089): CodeIgniter\View\View->render('unidades/unidad...', Array, true)
+#4 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(24): view('unidades/unidad...', Array)
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#7 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-03-14 15:19:02 --> Undefined array key "id"
+#0 C:\xampp\htdocs\punto_venta\app\Views\unidades\unidades.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 44)
+#1 C:\xampp\htdocs\punto_venta\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\punto_venta\system\Common.php(1089): CodeIgniter\View\View->render('unidades/unidad...', Array, true)
+#4 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(24): view('unidades/unidad...', Array)
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#7 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-03-14 15:19:05 --> Undefined array key "id"
+#0 C:\xampp\htdocs\punto_venta\app\Views\unidades\unidades.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 44)
+#1 C:\xampp\htdocs\punto_venta\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\punto_venta\system\Common.php(1089): CodeIgniter\View\View->render('unidades/unidad...', Array, true)
+#4 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(24): view('unidades/unidad...', Array)
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#7 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-03-14 15:19:05 --> Undefined array key "id"
+#0 C:\xampp\htdocs\punto_venta\app\Views\unidades\unidades.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 44)
+#1 C:\xampp\htdocs\punto_venta\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\punto_venta\system\Common.php(1089): CodeIgniter\View\View->render('unidades/unidad...', Array, true)
+#4 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(24): view('unidades/unidad...', Array)
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#7 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-03-14 15:19:05 --> Undefined array key "id"
+#0 C:\xampp\htdocs\punto_venta\app\Views\unidades\unidades.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 44)
+#1 C:\xampp\htdocs\punto_venta\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\punto_venta\system\Common.php(1089): CodeIgniter\View\View->render('unidades/unidad...', Array, true)
+#4 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(24): view('unidades/unidad...', Array)
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#7 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-03-14 15:19:43 --> Undefined array key "id"
+#0 C:\xampp\htdocs\punto_venta\app\Views\unidades\unidades.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 46)
+#1 C:\xampp\htdocs\punto_venta\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\punto_venta\system\Common.php(1089): CodeIgniter\View\View->render('unidades/unidad...', Array, true)
+#4 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(24): view('unidades/unidad...', Array)
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#7 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-03-14 15:21:44 --> Undefined array key "id"
+#0 C:\xampp\htdocs\punto_venta\app\Views\unidades\unidades.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 46)
+#1 C:\xampp\htdocs\punto_venta\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\punto_venta\system\Common.php(1089): CodeIgniter\View\View->render('unidades/unidad...', Array, true)
+#4 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(24): view('unidades/unidad...', Array)
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#7 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-03-14 15:22:14 --> Undefined array key "id"
+#0 C:\xampp\htdocs\punto_venta\app\Views\unidades\unidades.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 44)
+#1 C:\xampp\htdocs\punto_venta\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\punto_venta\system\Common.php(1089): CodeIgniter\View\View->render('unidades/unidad...', Array, true)
+#4 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(24): view('unidades/unidad...', Array)
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->index()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#7 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

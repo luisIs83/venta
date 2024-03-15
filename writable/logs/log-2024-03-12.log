@@ -1,0 +1,10 @@
+CRITICAL - 2024-03-12 10:14:17 --> Call to undefined function csfr_field()
+#0 C:\xampp\htdocs\punto_venta\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\punto_venta\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\punto_venta\system\Common.php(1089): CodeIgniter\View\View->render('unidades/nuevo', Array, true)
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(43): view('unidades/nuevo', Array)
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->nuevo()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
