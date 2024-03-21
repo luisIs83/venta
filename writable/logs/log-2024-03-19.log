@@ -1,0 +1,381 @@
+CRITICAL - 2024-03-19 15:10:02 --> syntax error, unexpected single-quoted string "productos", expecting "]"
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('productos')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('productos')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-19 15:41:36 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\punto_venta\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\punto_venta\system\Common.php(1089): CodeIgniter\View\View->render('productos/edita...', Array, true)
+#2 C:\xampp\htdocs\punto_venta\app\Controllers\Productos.php(76): view('productos/edita...', Array)
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\productos->editar('3')
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\productos))
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-03-19 17:41:37 --> Call to undefined function validation()
+#0 C:\xampp\htdocs\punto_venta\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\punto_venta\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\punto_venta\system\Common.php(1089): CodeIgniter\View\View->render('unidades/nuevo', Array, true)
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(62): view('unidades/nuevo', Array)
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->insertar()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-19 17:42:24 --> Call to undefined function validation()
+#0 C:\xampp\htdocs\punto_venta\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\punto_venta\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\punto_venta\system\Common.php(1089): CodeIgniter\View\View->render('unidades/nuevo', Array, true)
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(62): view('unidades/nuevo', Array)
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->insertar()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-03-19 17:42:32 --> Call to undefined function validation()
+#0 C:\xampp\htdocs\punto_venta\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\punto_venta\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\punto_venta\system\Common.php(1089): CodeIgniter\View\View->render('unidades/nuevo', Array, true)
+#3 C:\xampp\htdocs\punto_venta\app\Controllers\Unidades.php(62): view('unidades/nuevo', Array)
+#4 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Unidades->insertar()
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Unidades))
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2024-03-19 18:26:20 --> ErrorException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «codigo»
+DETAIL:  Ya existe la llave (codigo)=(123456). in C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php:135
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #124, 'INSERT INTO "po...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "po...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "po...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO "po...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#7 C:\xampp\htdocs\punto_venta\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#8 C:\xampp\htdocs\punto_venta\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#9 C:\xampp\htdocs\punto_venta\app\Controllers\Productos.php(64): CodeIgniter\BaseModel->save(Array)
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\productos->insertar()
+#11 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\productos))
+#12 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2024-03-19 18:26:20 --> pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «codigo»
+DETAIL:  Ya existe la llave (codigo)=(123456).
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #124, 'INSERT INTO "po...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "po...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "po...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO "po...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#7 C:\xampp\htdocs\punto_venta\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#8 C:\xampp\htdocs\punto_venta\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#9 C:\xampp\htdocs\punto_venta\app\Controllers\Productos.php(64): CodeIgniter\BaseModel->save(Array)
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\productos->insertar()
+#11 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\productos))
+#12 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2024-03-19 18:36:54 --> syntax error, unexpected single-quoted string "is_unique", expecting "]"
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('productos/nuevo')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('productos/nuevo')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-19 18:36:55 --> syntax error, unexpected single-quoted string "is_unique", expecting "]"
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('productos')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('productos')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-19 18:37:33 --> syntax error, unexpected single-quoted string "is_unique", expecting "]"
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('productos')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('productos')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-19 18:37:35 --> syntax error, unexpected single-quoted string "is_unique", expecting "]"
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('productos')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('productos')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-19 18:37:36 --> syntax error, unexpected single-quoted string "is_unique", expecting "]"
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('productos')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('productos')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-19 18:37:36 --> syntax error, unexpected single-quoted string "is_unique", expecting "]"
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('productos')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('productos')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-19 18:37:36 --> syntax error, unexpected single-quoted string "is_unique", expecting "]"
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('productos')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('productos')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-19 18:37:37 --> syntax error, unexpected single-quoted string "is_unique", expecting "]"
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('productos')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('productos')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-19 18:37:37 --> syntax error, unexpected single-quoted string "is_unique", expecting "]"
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('productos')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('productos')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-19 18:41:41 --> syntax error, unexpected single-quoted string "is_unique", expecting "]"
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('productos')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('productos')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-19 18:44:49 --> syntax error, unexpected single-quoted string "is_unique", expecting "]"
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('productos')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('productos')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-19 18:46:12 --> syntax error, unexpected single-quoted string "is_unique", expecting "]"
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('productos')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('productos')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2024-03-19 18:50:00 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «pos»
+LINE 2: FROM &quot;pos&quot;
+             ^ in C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php:135
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #130, 'SELECT 1\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT 1\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('123456', 'productos', Array, NULL)
+#7 C:\xampp\htdocs\punto_venta\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('codigo', 'codigo', '123456', Array, Array)
+#8 C:\xampp\htdocs\punto_venta\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#9 C:\xampp\htdocs\punto_venta\app\Controllers\Productos.php(74): CodeIgniter\Controller->validate(Array)
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\productos->insertar()
+#11 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\productos))
+#12 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2024-03-19 18:50:00 --> pg_query(): Query failed: ERROR:  no existe la relación «pos»
+LINE 2: FROM &quot;pos&quot;
+             ^
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #130, 'SELECT 1\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT 1\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('123456', 'productos', Array, NULL)
+#7 C:\xampp\htdocs\punto_venta\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('codigo', 'codigo', '123456', Array, Array)
+#8 C:\xampp\htdocs\punto_venta\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#9 C:\xampp\htdocs\punto_venta\app\Controllers\Productos.php(74): CodeIgniter\Controller->validate(Array)
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\productos->insertar()
+#11 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\productos))
+#12 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}
+ERROR - 2024-03-19 18:51:05 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «pos»
+LINE 2: FROM &quot;pos&quot;
+             ^ in C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php:135
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #130, 'SELECT 1\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT 1\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('123456', 'productos', Array, NULL)
+#7 C:\xampp\htdocs\punto_venta\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('codigo', 'codigo', '123456', Array, Array)
+#8 C:\xampp\htdocs\punto_venta\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#9 C:\xampp\htdocs\punto_venta\app\Controllers\Productos.php(74): CodeIgniter\Controller->validate(Array)
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\productos->insertar()
+#11 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\productos))
+#12 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2024-03-19 18:51:05 --> pg_query(): Query failed: ERROR:  no existe la relación «pos»
+LINE 2: FROM &quot;pos&quot;
+             ^
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #130, 'SELECT 1\nFROM "...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('SELECT 1\nFROM "...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT 1\nFROM "...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT 1\nFROM "...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Validation\Rules.php(142): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\punto_venta\system\Validation\Validation.php(292): CodeIgniter\Validation\Rules->is_unique('123456', 'productos', Array, NULL)
+#7 C:\xampp\htdocs\punto_venta\system\Validation\Validation.php(157): CodeIgniter\Validation\Validation->processRules('codigo', 'codigo', '123456', Array, Array)
+#8 C:\xampp\htdocs\punto_venta\system\Controller.php(160): CodeIgniter\Validation\Validation->run()
+#9 C:\xampp\htdocs\punto_venta\app\Controllers\Productos.php(74): CodeIgniter\Controller->validate(Array)
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\productos->insertar()
+#11 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\productos))
+#12 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}
+ERROR - 2024-03-19 18:53:10 --> ErrorException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «codigo»
+DETAIL:  Ya existe la llave (codigo)=(123456). in C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php:135
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #130, 'INSERT INTO "po...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "po...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "po...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO "po...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#7 C:\xampp\htdocs\punto_venta\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#8 C:\xampp\htdocs\punto_venta\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#9 C:\xampp\htdocs\punto_venta\app\Controllers\Productos.php(83): CodeIgniter\BaseModel->save(Array)
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\productos->insertar()
+#11 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\productos))
+#12 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2024-03-19 18:53:10 --> pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «codigo»
+DETAIL:  Ya existe la llave (codigo)=(123456).
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #130, 'INSERT INTO "po...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "po...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "po...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO "po...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#7 C:\xampp\htdocs\punto_venta\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#8 C:\xampp\htdocs\punto_venta\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#9 C:\xampp\htdocs\punto_venta\app\Controllers\Productos.php(83): CodeIgniter\BaseModel->save(Array)
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\productos->insertar()
+#11 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\productos))
+#12 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}
+ERROR - 2024-03-19 18:53:30 --> ErrorException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «codigo»
+DETAIL:  Ya existe la llave (codigo)=(123456). in C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php:135
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #130, 'INSERT INTO "po...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "po...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "po...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO "po...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#7 C:\xampp\htdocs\punto_venta\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#8 C:\xampp\htdocs\punto_venta\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#9 C:\xampp\htdocs\punto_venta\app\Controllers\Productos.php(83): CodeIgniter\BaseModel->save(Array)
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\productos->insertar()
+#11 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\productos))
+#12 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2024-03-19 18:53:30 --> pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «codigo»
+DETAIL:  Ya existe la llave (codigo)=(123456).
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #130, 'INSERT INTO "po...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "po...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "po...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO "po...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#7 C:\xampp\htdocs\punto_venta\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#8 C:\xampp\htdocs\punto_venta\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#9 C:\xampp\htdocs\punto_venta\app\Controllers\Productos.php(83): CodeIgniter\BaseModel->save(Array)
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\productos->insertar()
+#11 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\productos))
+#12 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}
+ERROR - 2024-03-19 18:58:02 --> ErrorException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «codigo»
+DETAIL:  Ya existe la llave (codigo)=(123456). in C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php:135
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #130, 'INSERT INTO "po...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "po...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "po...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO "po...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#7 C:\xampp\htdocs\punto_venta\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#8 C:\xampp\htdocs\punto_venta\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#9 C:\xampp\htdocs\punto_venta\app\Controllers\Productos.php(83): CodeIgniter\BaseModel->save(Array)
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\productos->insertar()
+#11 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\productos))
+#12 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2024-03-19 18:58:02 --> pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «codigo»
+DETAIL:  Ya existe la llave (codigo)=(123456).
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #130, 'INSERT INTO "po...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "po...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "po...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO "po...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#7 C:\xampp\htdocs\punto_venta\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#8 C:\xampp\htdocs\punto_venta\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#9 C:\xampp\htdocs\punto_venta\app\Controllers\Productos.php(83): CodeIgniter\BaseModel->save(Array)
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\productos->insertar()
+#11 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\productos))
+#12 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}
+ERROR - 2024-03-19 19:01:58 --> ErrorException: pg_query(): Query failed: ERROR:  la sintaxis de entrada no es válida para tipo numeric: «»
+LINE 1: ..._alta&quot;, &quot;fecha_edit&quot;) VALUES ('123456', 'juntas', '', '', NU...
+                                                             ^ in C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php:135
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #130, 'INSERT INTO "po...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "po...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "po...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO "po...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#7 C:\xampp\htdocs\punto_venta\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#8 C:\xampp\htdocs\punto_venta\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#9 C:\xampp\htdocs\punto_venta\app\Controllers\Productos.php(83): CodeIgniter\BaseModel->save(Array)
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\productos->insertar()
+#11 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\productos))
+#12 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2024-03-19 19:01:58 --> pg_query(): Query failed: ERROR:  la sintaxis de entrada no es válida para tipo numeric: «»
+LINE 1: ..._alta&quot;, &quot;fecha_edit&quot;) VALUES ('123456', 'juntas', '', '', NU...
+                                                             ^
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 135)
+#1 C:\xampp\htdocs\punto_venta\system\Database\Postgre\Connection.php(135): pg_query(Resource id #130, 'INSERT INTO "po...')
+#2 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(670): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "po...')
+#3 C:\xampp\htdocs\punto_venta\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "po...')
+#4 C:\xampp\htdocs\punto_venta\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO "po...', Array, false)
+#5 C:\xampp\htdocs\punto_venta\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#6 C:\xampp\htdocs\punto_venta\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#7 C:\xampp\htdocs\punto_venta\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#8 C:\xampp\htdocs\punto_venta\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#9 C:\xampp\htdocs\punto_venta\app\Controllers\Productos.php(83): CodeIgniter\BaseModel->save(Array)
+#10 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\productos->insertar()
+#11 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\productos))
+#12 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}

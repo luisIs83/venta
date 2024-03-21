@@ -1,0 +1,164 @@
+CRITICAL - 2024-03-21 10:36:12 --> Undefined property: App\Controllers\clientes::$categorias
+#0 C:\xampp\htdocs\punto_venta\app\Controllers\Clientes.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 57)
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\clientes->nuevo()
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\clientes))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-21 10:37:48 --> Undefined variable $unidades
+#0 C:\xampp\htdocs\punto_venta\app\Views\clientes\nuevo.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 29)
+#1 C:\xampp\htdocs\punto_venta\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\punto_venta\system\Common.php(1089): CodeIgniter\View\View->render('clientes/nuevo', Array, true)
+#4 C:\xampp\htdocs\punto_venta\app\Controllers\Clientes.php(60): view('clientes/nuevo', Array)
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\clientes->nuevo()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\clientes))
+#7 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-03-21 10:51:28 --> Undefined property: App\Controllers\clientes::$categorias
+#0 C:\xampp\htdocs\punto_venta\app\Controllers\Clientes.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 77)
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\clientes->editar('1')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\clientes))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-21 10:54:44 --> Undefined property: App\Controllers\clientes::$categorias
+#0 C:\xampp\htdocs\punto_venta\app\Controllers\Clientes.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 77)
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\clientes->editar('1')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\clientes))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-21 11:30:37 --> Undefined variable $data
+#0 C:\xampp\htdocs\punto_venta\app\Controllers\Configuracion.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 42)
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Configuracion->index()
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Configuracion))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-21 11:30:48 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\punto_venta\app\Views\configuracion\configuracion.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4)
+#1 C:\xampp\htdocs\punto_venta\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\punto_venta\system\Common.php(1089): CodeIgniter\View\View->render('configuracion/c...', Array, true)
+#4 C:\xampp\htdocs\punto_venta\app\Controllers\Configuracion.php(42): view('configuracion/c...')
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Configuracion->index()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Configuracion))
+#7 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-03-21 11:32:24 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\punto_venta\app\Views\configuracion\configuracion.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4)
+#1 C:\xampp\htdocs\punto_venta\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\punto_venta\system\Common.php(1089): CodeIgniter\View\View->render('configuracion/c...', Array, true)
+#4 C:\xampp\htdocs\punto_venta\app\Controllers\Configuracion.php(42): view('configuracion/c...')
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Configuracion->index()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Configuracion))
+#7 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-03-21 11:32:46 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\punto_venta\app\Views\configuracion\configuracion.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4)
+#1 C:\xampp\htdocs\punto_venta\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\punto_venta\system\Common.php(1089): CodeIgniter\View\View->render('configuracion/c...', Array, true)
+#4 C:\xampp\htdocs\punto_venta\app\Controllers\Configuracion.php(42): view('configuracion/c...')
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Configuracion->index()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Configuracion))
+#7 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-03-21 11:35:14 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\punto_venta\app\Views\configuracion\configuracion.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4)
+#1 C:\xampp\htdocs\punto_venta\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\punto_venta\system\Common.php(1089): CodeIgniter\View\View->render('configuracion/c...', Array, true)
+#4 C:\xampp\htdocs\punto_venta\app\Controllers\Configuracion.php(42): view('configuracion/c...')
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Configuracion->index()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Configuracion))
+#7 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-03-21 11:35:27 --> Undefined variable $datos
+#0 C:\xampp\htdocs\punto_venta\app\Views\configuracion\configuracion.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 23)
+#1 C:\xampp\htdocs\punto_venta\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\punto_venta\system\Common.php(1089): CodeIgniter\View\View->render('configuracion/c...', Array, true)
+#4 C:\xampp\htdocs\punto_venta\app\Controllers\Configuracion.php(42): view('configuracion/c...')
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Configuracion->index()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Configuracion))
+#7 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-03-21 13:01:14 --> Undefined variable $leyenda
+#0 C:\xampp\htdocs\punto_venta\app\Controllers\Configuracion.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 44)
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Configuracion->index()
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Configuracion))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-21 13:01:14 --> Undefined variable $leyenda
+#0 C:\xampp\htdocs\punto_venta\app\Controllers\Configuracion.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 44)
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Configuracion->index()
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Configuracion))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-21 13:01:44 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\punto_venta\app\Views\configuracion\configuracion.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 32)
+#1 C:\xampp\htdocs\punto_venta\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\punto_venta\system\Common.php(1089): CodeIgniter\View\View->render('configuracion/c...', Array, true)
+#4 C:\xampp\htdocs\punto_venta\app\Controllers\Configuracion.php(47): view('configuracion/c...', Array)
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Configuracion->index()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Configuracion))
+#7 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-03-21 13:03:58 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\punto_venta\app\Views\configuracion\configuracion.php(44): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 44)
+#1 C:\xampp\htdocs\punto_venta\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\punto_venta\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\punto_venta\system\Common.php(1089): CodeIgniter\View\View->render('configuracion/c...', Array, true)
+#4 C:\xampp\htdocs\punto_venta\app\Controllers\Configuracion.php(47): view('configuracion/c...', Array)
+#5 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Configuracion->index()
+#6 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Configuracion))
+#7 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-03-21 14:41:01 --> Call to undefined method App\Controllers\Configuracion::editar()
+#0 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Configuracion->actualizar()
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Configuracion))
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2024-03-21 14:49:24 --> syntax error, unexpected token "}", expecting ";"
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('configuracion')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('configuracion')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-21 14:50:55 --> Undefined variable $configuracion
+#0 C:\xampp\htdocs\punto_venta\app\Controllers\Configuracion.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 55)
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(832): App\Controllers\Configuracion->actualizar()
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Configuracion))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-21 15:39:57 --> Unclosed '{' on line 10
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('configuracion')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('configuracion')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-03-21 16:41:32 --> syntax error, unexpected single-quoted string "required", expecting "]"
+#0 C:\xampp\htdocs\punto_venta\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('usuarios')
+#1 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('usuarios')
+#2 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\punto_venta\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\punto_venta\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

@@ -38,12 +38,8 @@
             <nav class="sb-sidenav accordion sb-sidenav-dark" id="sidenavAccordion">
                 <div class="sb-sidenav-menu">
                     <div class="nav">
-                        <a class="nav-link" href="<?php echo base_url(); ?>/lista_visitas">
-                                <div class="sb-nav-link-icon"><i class="fas fa-table"></i></div>
-                                Lista de visitantes 
-                        </a>
                         <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#collapseLayouts" aria-expanded="false" aria-controls="collapseLayouts">
-                            <div class="sb-nav-link-icon"><i class="fas fa-columns"></i></div>
+                            <div class="sb-nav-link-icon"><i class="fas fa-shopping-basket"></i></div>
                             Productos
                             <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
                         </a>  
@@ -53,12 +49,22 @@
                                 <a class="nav-link" href="<?php echo base_url(); ?>/unidades">Unidades</a>
                                 <a class="nav-link" href="<?php echo base_url(); ?>/categorias">Categorías</a>
                             </nav>
-                        </div>
-                        <a class="nav-link" href="<?php echo base_url(); ?>/visitantes">
-                                <div class="sb-nav-link-icon"><i class="fas fa-table"></i></div>
-                                Registro visitas
-                        </a>
-                    </div>
+                        </div>                   
+                        <a class="nav-link" href="<?php echo base_url(); ?>/clientes">
+                            <div class="sb-nav-link-icon"><i class="fas fa-users"></i></div>Clientes</a> 
+                        <a class="nav-link collapsed" href="#" data-bs-toggle="collapse" data-bs-target="#subAdmin" aria-expanded="false" aria-controls="subAdmin">
+                            <div class="sb-nav-link-icon"><i class="fas fa-tools"></i></div>
+                            Administración
+                            <div class="sb-sidenav-collapse-arrow"><i class="fas fa-angle-down"></i></div>
+                        </a>  
+                        <div class="collapse" id="subAdmin" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordion">
+                            <nav class="sb-sidenav-menu-nested nav">
+                                <a class="nav-link" href="<?php echo base_url(); ?>/configuracion">Configuración</a>
+                                <a class="nav-link" href="<?php echo base_url(); ?>/usuarios">Usuarios</a>
+                                <a class="nav-link" href="<?php echo base_url(); ?>/categorias">Categorías</a>
+                            </nav>
+                        </div>                              
+                    </div>  
                 </div>
             </nav>
         </div>
